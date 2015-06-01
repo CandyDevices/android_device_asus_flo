@@ -20,10 +20,6 @@
 #
 # Everything in this directory will become public
 
-PRODUCT_COPY_FILES := \
-	$(LOCAL_KERNEL):kernel
-endif
-
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xhdpi
 
