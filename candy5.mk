@@ -2,7 +2,6 @@
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1200
-TARGET_BOOTANIMATION_HALF_RES := true
 
 # Inherit some common candy5 stuff.
 $(call inherit-product, vendor/candy5/config/common_full_tablet_wifionly.mk)
