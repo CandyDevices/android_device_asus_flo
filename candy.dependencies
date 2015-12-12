@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "CyanogenMod/android_kernel_google_msm",
+   "target_path": "kernel/google/msm",
+   "remote": "github",
+   "revision": "cm-13.0"
+ },
+ {
+   "repository": "CyanogenMod/android_external_stlport",
+   "target_path": "external/stlport",
+   "remote": "github",
+   "revision": "cm-13.0"
+ }
+]
